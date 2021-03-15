@@ -3,8 +3,7 @@ Created on Feb 25, 2021
 
 @author: ITAUser
 '''
-#!/usr/bin/python3
-# Simple TicTacToe game in Python - EAO
+
 import random
 import sys
 
